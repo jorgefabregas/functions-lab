@@ -35,3 +35,4 @@ function sumNumbers()
     let secondNumber= parseInt (document.getElementById ("num2").value);
 
     let sum = firstNumber + secondNumber;
+}
